@@ -1,6 +1,6 @@
 
-describe('Landing Page test suite2', () => {
-    
+describe('Landing Page test suite4', () => {
+
 beforeEach('open Landing Page', () => {
     cy.visit('/')
 })
